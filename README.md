@@ -1,10 +1,13 @@
-# 🔥 CV Roaster - AI-Powered Resume Analyzer
+#  CV Roaster - AI-Powered Resume Analyzer
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-success?style=for-the-badge&logo=vercel)](https://cv-roaster-4kz45wi7i-enes-s-projects1.vercel.app/)
 
 CV Roaster is a full-stack web application that extracts text from PDF resumes and leverages Large Language Models (OpenAI GPT-4o-mini) to provide brutally honest, structured feedback on clarity, impact, and ATS compatibility. 
 
 Built as a showcase of bridging the gap between raw AI models and production-ready user interfaces.
+<img width="1920" height="947" alt="{71E79F4D-436D-4BAE-BD18-8238ED814D8B}" src="https://github.com/user-attachments/assets/fdf26ae2-03a9-4453-a4a9-dc343cef02f4" />
+<img width="1905" height="945" alt="{18783CD8-5E44-4B17-87C1-6F6963AE7841}" src="https://github.com/user-attachments/assets/537899b3-be8e-4b76-84a2-d9498a36833b" />
+
 
 ## 🚀 Features
 - **Live Cloud Deployment:** Fully deployed frontend (Vercel) and asynchronous backend (Render).
