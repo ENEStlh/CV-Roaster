@@ -80,7 +80,7 @@ export default function UploadPage({ onAnalysisSuccess }) {
             const formData = new FormData();
             formData.append("file", selectedFile);
 
-            const response = await fetch("/api/analyze", {
+            const response = await fetch("https://cv-roaster-api-losi.onrender.com/api/analyze", {
                 method: "POST",
                 body: formData,
             });
